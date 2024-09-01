@@ -8,4 +8,4 @@ data with charts for clarity. This highlighted thriving crops and price
 fluctuations, aimed at aiding decision-makers to enhance farming practices
 in India.
 ## Live Dashboard
-Explore the live dashboard https://t.ly/kk1PX
+Explore the live dashboard https://t.ly/gLptO
